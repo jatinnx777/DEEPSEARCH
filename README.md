@@ -30,6 +30,8 @@ DEEPSERCH aims to restore **trust in digital content** by making deepfake detect
 
 - ⚡ **Real-Time Detection**  
   Fast processing for instant verification.
+  <img width="1078" height="855" alt="Screenshot (2" src="https://github.com/user-attachments/assets/04a50282-7e09-488a-abc9-3b62e09dfb79" />
+
 
 - 🌐 **Interactive UI**  
   Clean and intuitive frontend for easy media uploads and results.

@@ -1,0 +1,7 @@
+{
+  "name": "DEEPSERCH",
+  "description": "A forensic intelligence suite for multi-layer deepfake detection and media verification, featuring a clean paper-inspired professional design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

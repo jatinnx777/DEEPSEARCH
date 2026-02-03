@@ -54,21 +54,6 @@ DEEPSERCH aims to restore **trust in digital content** by making deepfake detect
 - Git & GitHub
 - MIT License
 
----
-
-## 📂 Project Structure
-
-DEEPSERCH/
-│
-├── Components/ # Reusable UI components
-├── types/ # TypeScript type definitions
-├── App.tsx # Main app logic
-├── index.tsx # Entry point
-├── index.html # HTML template
-├── metadata.json # Project metadata
-├── README.md # Documentation
-└── LICENSE # MIT License
-
 
 ---
 
